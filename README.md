@@ -42,6 +42,7 @@ This analysis compares Facebook and Google ad campaigns to identify:
 ---  
 
 <h2><a href="" class="anchor" id="tools"></a>Tools & Technologies Used</h2>  
+
 - Python  
 - Pandas  
 - NumPy  
